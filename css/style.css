@@ -1,0 +1,151 @@
+.nav-bar {
+    background-color: rgba(43, 43, 43, 0.807);
+    flex-direction: row;
+    position: relative;
+}
+
+.navegacion {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.logo {
+    color: white;
+    width: 20%;
+    height: 20%;
+    display: block;
+    justify-content: flex-start;
+}
+
+.menu {
+    font-size: small;
+}
+
+.item1 {
+    color: white;
+}
+
+.item2 {
+    color: rgba(159, 159, 159, 0.927);
+}
+
+.item3 {
+    color: rgb(1, 168, 1);
+}
+
+.imagenBa1 {
+    position: relative;
+    margin: auto;
+    opacity: 0.9;
+}
+
+.text1 {
+    position: absolute;
+    top: 44%;
+    color: white;
+    font-size: small;
+    right: 25px;
+    text-align: right;
+    margin-right: 5%;
+}
+
+.botonQuieroSerOra {
+    background-color: transparent;
+    color: white;
+    border-color: white;
+    width: 35%;
+    border-radius: 3px;
+}
+
+.botonCompraTickets {
+    background-color: rgba(0, 210, 95, 0.896);
+    color: white;
+    border-color: white;
+    border: none;
+    width: 35%;
+    border-radius: 3px;
+    margin-left: 3%;
+}
+
+.titulo1 {
+    text-align: center;
+}
+
+.titulo2 {
+    margin-top: -1.5%;
+}
+
+.card {
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 10px;
+}
+
+.imagenHonolulu {
+    max-width: 110%;
+    max-height: 100%;
+    margin-left: -19.5%;
+}
+
+.textoHonolulu {
+    background-color: rgba(43, 43, 43, 0.807);
+    margin-right: -8%;
+    margin-left: -6%;
+    padding-top: 1%;
+    color: white;
+    font-size: small;
+}
+
+.botonConoceMas {
+    background-color: transparent;
+    color: white;
+    border-color: white;
+    border-radius: 3px;
+    text-align: center;
+}
+
+.textoLineaPunteada {
+    text-decoration-style: dashed;
+}
+
+.formulario {
+    text-align: center;
+}
+
+.text3 {
+    font-size: small;
+}
+.formNombre {
+    padding-right: 12%;
+    margin-left: -20%;
+}
+
+.formApellido {
+    padding-right: 12%;
+    margin-right: -20%;
+}
+
+.text2 {
+    font-size: small;
+    margin-left: -38%;
+    color: rgba(89, 89, 89, 0.927);
+}
+
+.botonEnviar {
+    background-color: rgba(0, 210, 95, 0.896);
+    color: white;
+    border-color: white;
+    border: none;
+    width: 58%;
+    border-radius: 3px;
+}
+
+.footer {
+    background-color: rgba(2, 49, 170, 0.763);
+    display: flex;
+    justify-content: space-around;
+}
+.item4 {
+    color: white;
+}
